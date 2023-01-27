@@ -27,6 +27,6 @@
   },
   "snyk": true,
   "dependencies": {
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.1081.0"
   }
 }
